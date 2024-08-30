@@ -62,5 +62,5 @@ Para contribuir, você pode criar um *pull request* com suas adições ou melhor
 - [Documentação do STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-microcontroller-architecture.html)
 - [Documentação do ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 - [Guia de Assembly x86](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-- (Adicione mais recursos conforme necessário)
+
 
