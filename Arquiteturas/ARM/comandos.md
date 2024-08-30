@@ -50,4 +50,3 @@ Aqui estão alguns comandos comuns em Assembly para ARM:
     MOVS R0, #0   ; Move 0 para R0 e atualiza os flags
     ```
 
-Esses são apenas alguns exemplos de comandos básicos em Assembly para ARM. Existem muitos outros, cada um com suas próprias funcionalidades e usos específicos.
