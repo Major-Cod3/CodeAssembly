@@ -1,5 +1,5 @@
 ## CodeAssembly
-
+!['logo'](logo.png)
 Um repositório colaborativo para comandos, syscalls e exemplos de código em Assembly para microcontroladores e diversas arquiteturas.
 
 ### Objetivo
